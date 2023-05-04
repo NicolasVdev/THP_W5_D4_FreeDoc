@@ -21,3 +21,7 @@ Creating an app that will revolutionize medical appointments !
 * `rails c` #turning on the console
 
 * Do the test (`tp Doctor.all`, `tp Patient.all`, `tp Appointment.all` (or .last)
+
+## Requirements
+
+Ruby 3.0.0

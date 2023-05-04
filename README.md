@@ -1,24 +1,16 @@
-# README
+# FreeDoc
+### THP W5 D4
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Learning RoR(Ruby on Rails) and our first database
+Creating an app that will revolutionize medical appointments !
 
-Things you may want to cover:
+* Creating and modeling our models
+* Managing migration to play with our tables
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Let's try this :
+* 'Git clone' #cloning this repo
+* 'bundle i' #installing the Ruby's gems
+* 'rails db:migrate' #put all database tables to up status
+* 'rails db:seed' #generating a random database with faker's gem
+* 'rails c' #turning on the console
+Do the test ('tp Doctor.all', 'tp Patient.all', 'tp Appointment.all or .last'

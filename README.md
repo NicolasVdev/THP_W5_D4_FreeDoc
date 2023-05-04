@@ -7,9 +7,15 @@ Creating an app that will revolutionize medical appointments !
 * Creating and modeling our models
 * Managing migration to play with our tables
 
-Let's try this :
+## Installation
+
+
 * 'Git clone' #cloning this repo
 * `bundle install` #installing the Ruby's gems
+
+
+## Usage
+
 * `rails db:migrate` #put all database tables to up status
 * `rails db:seed` #generating a random database with faker's gem
 * `rails c` #turning on the console
